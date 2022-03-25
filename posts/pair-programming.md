@@ -9,8 +9,9 @@ Fast forward to today. I am finishing up week nine of the bootcamp and in my exp
 
 In this article I will discuss some benefits to remote pair programming as well as provide some tools to help get you started!
 
-![pair programming](https://miro.medium.com/max/545/1*zSPSoROGlIHgoz2xhslaqA.jpeg)*Pair programming with Ellie in VS Code*
-
+![pair programming](https://miro.medium.com/max/545/1*zSPSoROGlIHgoz2xhslaqA.jpeg)*Pair programming with Ellie in VS Code*\
+\
+\
 **Let’s back up…**
 
 What even is pair programming?
@@ -88,6 +89,17 @@ More importantly, think outside the box when it comes to pair programming. Intro
 - [CodeTogether](https://www.codetogether.com/)
 - [Teletype for Atom](https://teletype.atom.io/)
 - [Tuple](https://tuple.app/)
-- [Drovio](https://www.drovio.com/)
-
-**FOOTNOTES**
+- [Drovio](https://www.drovio.com/)\
+\
+\
+\
+**FOOTNOTES**\
+\
+Wikipedia Quote - [https://en.wikipedia.org/wiki/Pair_programming](https://en.wikipedia.org/wiki/Pair_programming)\
+\
+Inspiration from:
+A List of the Top 8 Remote Pair Programming Tools by Pius Aboyi
+[https://www.coscreen.co/blog/top-8-remote-pair-programming-tools/](https://www.coscreen.co/blog/top-8-remote-pair-programming-tools/)\
+\
+Remote pair programming? Oh yes, you can by Ruslan Prakapchuk
+[https://www.atlassian.com/blog/technology/remote-pair-programming-tools-process](https://www.atlassian.com/blog/technology/remote-pair-programming-tools-process)
