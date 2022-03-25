@@ -28,9 +28,22 @@ Sure, working physically beside someone might seem like a more tangible experien
 
 **So let’s get started…**
 
-I suggest working with all of these and finding which tools work best for you.\
+I suggest working with all of these and find which tools work best for you.\
 \
 \
-    Live Share on VS Code:
+*Live Share on VS Code:*
 
 We saw a quick example earlier in the article, but let’s explore this option deeper. If you use VS Code as your editor, you can download the Live Share extension. Your partner(s) will have access to work on any project file and can access the terminal within VS Code. Live Share is great for working on a small bug, or even working together to add a new feature to your app. Lastly, even if someone in your group does not have VS Code, they can still hop on a session through their browser!
+
+![pair programming in vs code](https://miro.medium.com/max/700/1*PPdlgJexjbIW3m0Fl6ylbw.jpeg)*There is a chat box option, but I recommend hoping on a voice channel elsewhere*\
+\
+\
+\
+*Replit => [https://replit.com/~](https://replit.com/~)*
+
+I recently used Replit for the first time during a technical interview, which made ‘white boarding’ much easier (who wants to write code on MS Word?!).
+Using Replit is best suited for those types of situations, or working on a code snippet with a partner.
+
+With Replit you can also run your GitHub repos once you’ve connected your account and there are over 50 different programming languages to choose from!
+
+![pair programming in replit](https://miro.medium.com/max/700/1*p9QGvxhfRuE5yH_y6EolZQ.png)*Quick setup and intuitive!*
