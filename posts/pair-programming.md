@@ -79,6 +79,10 @@ More importantly, think outside the box when it comes to pair programming. Intro
 \
 \
 **List of Programs mentioned:**
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+- [Replit](https://replit.com/~)
+- [Pop](https://pop.com/)
+- [CoScreen](https://www.coscreen.co/download)
 
 **Other Programs to checkout:**
 
