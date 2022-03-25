@@ -97,7 +97,7 @@ More importantly, think outside the box when it comes to pair programming. Intro
 \
 Wikipedia Quote - [https://en.wikipedia.org/wiki/Pair_programming](https://en.wikipedia.org/wiki/Pair_programming)\
 \
-Inspiration from:
+Inspiration from:\
 A List of the Top 8 Remote Pair Programming Tools by Pius Aboyi
 [https://www.coscreen.co/blog/top-8-remote-pair-programming-tools/](https://www.coscreen.co/blog/top-8-remote-pair-programming-tools/)\
 \
