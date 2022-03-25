@@ -65,5 +65,21 @@ Try your hand at white boarding with actual draw tools and easily join a collabo
 
 With CoScreen, we have the ability to chat and see each other directly in the app which helps us feel more connected. At this point, we’ve seen that feature before; but where CoScreen takes pair programming one step further is with their window sharing feature. Unlike the previous examples, CoScreen allows all users to share windows and anyone can interact with it when they need to!
 
-![pair programming on coScreen](https://miro.medium.com/max/700/1*ETLYuno_5FMZzOO_GPzXVQ.png)*Now this is pair programming on level 💯*
+![pair programming on coScreen](https://miro.medium.com/max/700/1*ETLYuno_5FMZzOO_GPzXVQ.png)*Now this is pair programming on level 💯*\
+\
+\
+\
+**Where do I go from here...**
 
+I hope going over these options didn’t overwhelm you. The point is that pair programming can actually thrive while we are all working remotely (and even when we return to the office).
+
+If you are new to coding or pair programming, start small. Jump on Live Share or Replit so you can quickly use basic software while establishing a good workflow with your peers. If you are an experienced developer and are bored by pair programming, give Pop or CoScreen a try!
+
+More importantly, think outside the box when it comes to pair programming. Introduce a weekly pair programming hour at work, ask a friend to jump on Replit and show you how they’d solve a small coding challenge, or reach out beyond the workplace and work together on a mini project with a friend. Whatever you use pair programming for, I can guarantee that the ‘remote-ness’ of it all will make you feel anything but — you will feel more connected and learn something new!\
+\
+\
+**List of Programs mentioned:**
+
+**Other Programs to checkout:**
+
+**FOOTNOTES**
