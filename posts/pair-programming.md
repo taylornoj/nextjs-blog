@@ -46,4 +46,15 @@ Using Replit is best suited for those types of situations, or working on a code 
 
 With Replit you can also run your GitHub repos once you’ve connected your account and there are over 50 different programming languages to choose from!
 
-![pair programming in replit](https://miro.medium.com/max/700/1*p9QGvxhfRuE5yH_y6EolZQ.png)*Quick setup and intuitive!*
+![pair programming in replit](https://miro.medium.com/max/700/1*p9QGvxhfRuE5yH_y6EolZQ.png)*Quick setup and intuitive!*\
+\
+\
+\
+*Pop => [https://pop.com/](https://pop.com/)*
+
+Remember how you’d have to connect to a Discord voice channel while working on Live Share? Well, Pop allows pairs to use voice and video chat directly in the app.
+Pop is a highly interactive platform, with features all in one place to make you feel like you’re back in the office with your team.
+
+Try your hand at white boarding with actual draw tools and easily join a collaborative session via a multitude of platforms like Linux, Mac, Chrome and even mobile browsers!
+
+![pair programming on Pop](https://miro.medium.com/max/700/1*E-v8YSDViUGS9YvNA5ZByQ.jpeg)*Who wouldn’t want their image following their cursor?! I know I sure do…*
