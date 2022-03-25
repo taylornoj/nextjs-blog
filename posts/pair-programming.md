@@ -3,13 +3,34 @@ title: "Let's work together...but separately"
 date: '2022-01-08'
 ---
 
-***When*** I joined the Lighthouse Labs Web Development bootcamp in October, I felt a sense of dread knowing I would be pair programming with cohort mates just three days into the program. I had very little previous coding experience, was trying to conquer the basics and was worried about being judged, or not contributing enough. I had also never seen pair programming in action before, so the thought of working remotely with strangers on a coding challenge was sending me into a bit of a spiral.
+When I joined the Lighthouse Labs Web Development bootcamp in October, I felt a sense of dread knowing I would be pair programming with cohort mates just three days into the program. I had very little previous coding experience, was trying to conquer the basics and was worried about being judged, or not contributing enough. I had also never seen pair programming in action before, so the thought of working remotely with strangers on a coding challenge was sending me into a bit of a spiral.
 
 Fast forward to today. I am finishing up week nine of the bootcamp and in my experience, the situations in which I’ve learned the most have happened while pair programming remotely.
 
 In this article I will discuss some benefits to remote pair programming as well as provide some tools to help get you started!
 
-![pair programming](https://miro.medium.com/max/545/1*zSPSoROGlIHgoz2xhslaqA.jpeg)*Pair programming with Ellie*
+![pair programming](https://miro.medium.com/max/545/1*zSPSoROGlIHgoz2xhslaqA.jpeg)*Pair programming with Ellie in VS Code*
 
+**Let’s back up…**
 
+What even is pair programming?
 
+If you ask Wikipedia, the answer is a little basic and outdated:
+
+> “Pair programming is … a technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in”
+
+When I read this definition before my first pair programming session, I expected the process to be rigid, dry and full of rules. Nothing could be farther from the truth!
+
+The idea of having a driver and a navigator is important, in fact, without this dynamic you might as well sit at different computers and work separately. However, the beauty in pair programming is that you can make it as free-form as you like. Switch up the roles often. Don’t feel that as the driver, you can’t help brainstorm ideas with the navigator. Pair programming is a collaboration and you will understand code better when you look at it from another perspective, or listen to someone else explain how they are planning a solution.
+The other glaringly obvious difference in Wikipedia’s definition compared to today’s implementation of pair programming, is the ability to now do all of this remotely.
+
+Sure, working physically beside someone might seem like a more tangible experience — but working remotely isn’t going away anytime soon. When you work with someone else on code remotely, you are still sharing knowledge and are still able to review code instantly. Not to mention, working together remotely avoids the awkward chair shuffle of switching roles, you can pair program with more than one other person at a time and you have the opportunity to code with someone who is miles away! This is a great way to keep teams connected and to build new working relationships.
+
+**So let’s get started…**
+
+I suggest working with all of these and finding which tools work best for you.\
+\
+\
+    Live Share on VS Code:
+
+We saw a quick example earlier in the article, but let’s explore this option deeper. If you use VS Code as your editor, you can download the Live Share extension. Your partner(s) will have access to work on any project file and can access the terminal within VS Code. Live Share is great for working on a small bug, or even working together to add a new feature to your app. Lastly, even if someone in your group does not have VS Code, they can still hop on a session through their browser!
