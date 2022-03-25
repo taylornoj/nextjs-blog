@@ -22,14 +22,14 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         {/* <p>Hey, I'm Taylor! I'm a recent graduate from the Lighthouse Labs Web Development Bootcamp.  I have the most experience working with the PERN stack but am always seeking out new languages and frameworks!  </p> */}
-        <p>
+        {/* <p> */}
           {/* Follow along as I navigate post bootcamp life and start my journey as a web developer {' '} */}
           {/* <a href="https://nextjs.org/learn">our Next.js tutorial</a>.) */}
-        </p>
+        {/* </p> */}
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
+        <h2 className={utilStyles.headingLg}>console.log(blog)</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
