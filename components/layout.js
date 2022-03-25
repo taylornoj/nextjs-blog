@@ -58,9 +58,9 @@ export default function Layout({ children, home }) {
                 />
               </a>
             </Link>
-            <h2 className={utilStyles.headingLg}>
+            <h2 className={utilStyles.blogHeading2Xl}>{name}<br />{name2}<br />{name3}
               <Link href="/">
-                <a className={utilStyles.colorInherit}>{name}</a>
+                <a className={utilStyles.colorInherit}></a>
               </Link>
             </h2>
           </>
