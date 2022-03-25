@@ -21,9 +21,9 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hey, I'm Taylor! I'm a recent graduate from the Lighthouse Labs Web Development Bootcamp.  I have the most experience working with the PERN stack but am always seeking out new languages and frameworks!  </p>
+        {/* <p>Hey, I'm Taylor! I'm a recent graduate from the Lighthouse Labs Web Development Bootcamp.  I have the most experience working with the PERN stack but am always seeking out new languages and frameworks!  </p> */}
         <p>
-          Follow along as I navigate post bootcamp life and start my journey as a web developer {' '}
+          {/* Follow along as I navigate post bootcamp life and start my journey as a web developer {' '} */}
           {/* <a href="https://nextjs.org/learn">our Next.js tutorial</a>.) */}
         </p>
       </section>
