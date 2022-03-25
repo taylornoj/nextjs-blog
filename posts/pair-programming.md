@@ -85,5 +85,9 @@ More importantly, think outside the box when it comes to pair programming. Intro
 - [CoScreen](https://www.coscreen.co/download)
 
 **Other Programs to checkout:**
+- [CodeTogether](https://www.codetogether.com/)
+- [Teletype for Atom](https://teletype.atom.io/)
+- [Tuple](https://tuple.app/)
+- [Drovio](https://www.drovio.com/)
 
 **FOOTNOTES**
