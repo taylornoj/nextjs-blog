@@ -13,9 +13,10 @@ body {
 }
 
 a {
-  color: #448dd1;
+  color: #9c7aaa;
   text-decoration: none;
-  font-size: medium;
+  /* font-size: medium; */
+  font-weight: 300;
 }
 
 a:hover {
