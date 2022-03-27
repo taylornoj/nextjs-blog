@@ -3,7 +3,6 @@ import Image from 'next/image'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
-import Comments from './comments'
 
 const name = 'SELECT blog '
 const name2 = 'FROM thoughts'
@@ -39,11 +38,7 @@ export default function Layout({ children, home }) {
               width={154}
               alt={name}
             />
-            
-            {/* <h1 className={utilStyles.heading2Xl}>{name}</h1>
-            <h1 className={utilStyles.heading2Xl}>{name2}</h1> */}
-
-<h1 className={utilStyles.heading2Xl}>{name}<br />{name2}<br />{name3}</h1>
+            <h1 className={utilStyles.heading2Xl}>{name}<br />{name2}<br />{name3}</h1>
           </>
         ) : (
           <>
@@ -67,7 +62,7 @@ export default function Layout({ children, home }) {
           </>
         )}
       </header>
-      
+
       <main>{children}</main>
       {!home && (
         <div className={styles.backToHome}>
