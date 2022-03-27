@@ -3,6 +3,7 @@ import Layout from '../../components/layout'
 import Head from 'next/head'
 import Date from '../../components/date'
 import utilStyles from '../../styles/utils.module.css'
+import Comments from '../../components/comments'
 
 import { getAllPostIds, getPostData } from '../../lib/posts'
 
@@ -37,6 +38,7 @@ export default function Post({ postData }) {
         </div>
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
       </article>
+      <Comments />
     </Layout>
   )
 }
