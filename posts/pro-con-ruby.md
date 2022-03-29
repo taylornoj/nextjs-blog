@@ -21,14 +21,22 @@ After doing some light digging around, I found more pros to Ruby on Rails than c
 - there is a lot of Ruby on Rails documentation out there with an even more supportive and robust community of devs (not to mention a large number of RubyGems available that help with faster building)
 - it is believed that Ruby is one of the most time efficient languages, as software can be built relatively quickly (which is why startups love the RoR framework)
 
-From the small personal experience I do have with Ruby on Rails, I would add one more thing to the list.   The error messages are a little more helpful.  Although the development mode error screens are big and red and seem daunting at first, the source code is displayed nicely and there is lots of context as to what has gone wrong.  It's common for new developers to not want error messages and I felt the same way, until I worked with RoR and realized that the error messages were actually helping me gain a better understanding.
+From the small personal experience I do have with Ruby on Rails, I would add one more thing to the list.   The error messages are a little more helpful.  Although the development mode error screens are big and red and seem daunting at first, the source code is displayed nicely and there is a lot of context as to what has gone wrong.  It's common for new developers to not want error messages and I felt the same way, until I worked with RoR and realized that the error messages were actually helping me gain a better understanding.
 
 And for the cons:
 - application runtime may not be the best - at least for apps with larger userbases (although there is argument that the database just needs to be managed better in this case)
-- flexibility; not having too much experience in RoR yet I can't speak to this from first-hand knowledge but it seems that there are a number of unchangeable modules that come with the framework which can hinder creativity)
+- flexibility; not having too much experience in RoR yet I can't speak to this from first-hand knowledge, but it seems that there are a number of unchangeable modules that come with the framework which can hinder creativity)
 
-And then we come full circle and arrive at the question of popularity.  It seems that new devs are ushered into learning JavaScript, HTML and CSS right away and I've heard of some bootcamps that don't even touch on Ruby at all.  There is some sort of connotation that Ruby is old news.
+And then we come full circle and arrive at the question of popularity.  It seems that new devs are ushered into learning JavaScript, HTML and CSS right away and I've heard of some bootcamps that don't even touch on Ruby at all.  There is a sort of connotation that Ruby is old news.
 
-Okay, maybe Ruby isn't 'as popular' as JavaScript but that doesn't mean demand is gone.  Many large companies are still using RoR and as previously mentioned, it is popular with startups as well. 
+Okay, maybe Ruby isn't as 'popular' as JavaScript but that doesn't mean demand is gone.  Many large companies are still using RoR and as previously mentioned, it is popular with startups as well. 
 
-So - let's talk about Ruby! Comment below and let me know your thoughts.  Is Ruby on the way out, is it harder to land a senior or junior Ruby role, would you have instead learned Ruby first?
+So - let's talk about Ruby! Comment below and let me know your thoughts.  Is Ruby on the way out; is it harder to land a senior or junior Ruby role; would you have learned Ruby first if given the option?\
+\
+\
+**References:**
+- [Why You Shouldn't Sleep on Ruby on Rails in 2022](https://blog.carbonfive.com/why-you-shouldnt-sleep-on-ruby-on-rails-in-2022/) - Alice Wenner
+- [Should I learn Ruby?](https://www.codecademy.com/resources/blog/should-i-learn-ruby/#:~:text=Why%20is%20Ruby%20a%20good,Mac%2C%20or%20Linux%20operating%20system.) - Stephan Miller
+- [Pros and Cons of Ruby Software Development](https://thecodest.co/blog/pros-and-cons-of-ruby-software-development/) - Jakub Jakubowicz
+- [Pros and Cons of Ruby on Rails](https://sloboda-studio.com/blog/pros-and-cons-of-ruby-on-rails/) - Victor Rak
+- [Pros and Cons of Ruby on Rails for Web Development](https://www.botreetechnologies.com/blog/pros-and-cons-of-ruby-on-rails-for-web-development/) - Ankur Vyas
