@@ -3,7 +3,7 @@ import Layout from '../../components/layout'
 import Head from 'next/head'
 import Date from '../../components/date'
 import utilStyles from '../../styles/utils.module.css'
-import Comments from '../../components/comments'
+import Comments from '../../components/Comments'
 
 import { getAllPostIds, getPostData } from '../../lib/posts'
 
